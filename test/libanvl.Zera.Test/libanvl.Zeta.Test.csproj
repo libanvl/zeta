@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\libanvl.UUID\libanvl.Zeta.csproj" />
+    <ProjectReference Include="..\..\src\libanvl.Zeta\libanvl.Zeta.csproj" />
   </ItemGroup>
 
 </Project>
